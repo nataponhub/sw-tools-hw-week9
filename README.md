@@ -6,4 +6,7 @@
 - npm run dev เพื่อเปิด
 ## ปัญหาที่เจอตอนทำ
 - ติด CORS -> วิธีแก้คือเข้าไปไฟล์ main.py จาก Lab5 ที่เราโคลนของอาจารย์มาเพื่อกำหนดให้ทุก origin เข้าถึงได้จะได้ยิงapiสะดวกๆ เสร็จแล้ว build image docker และ docker run image ตัวที่ build มาใหม่ ฝัง frontend ก็จะไม่ติด CORS policy
+
+
 ![image](https://imgur.com/GFiDgXu.jpg)
+รูปที่แก้ไฟล์ main.py
