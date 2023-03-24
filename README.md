@@ -11,3 +11,7 @@
 ![image](https://imgur.com/GFiDgXu.jpg)
 
 รูปที่แก้ไฟล์ main.py
+
+![image](https://imgur.com/7JpwMlo.jpg)
+
+ผลลัพธ์
